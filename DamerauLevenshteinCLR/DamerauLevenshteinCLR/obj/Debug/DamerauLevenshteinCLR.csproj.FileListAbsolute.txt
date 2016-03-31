@@ -1,0 +1,5 @@
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\bin\Debug\DamerauLevenshteinCLR.dll
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\bin\Debug\DamerauLevenshteinCLR.pdb
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\obj\Debug\DamerauLevenshteinCLR.csprojResolveAssemblyReference.cache
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\obj\Debug\DamerauLevenshteinCLR.dll
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\obj\Debug\DamerauLevenshteinCLR.pdb

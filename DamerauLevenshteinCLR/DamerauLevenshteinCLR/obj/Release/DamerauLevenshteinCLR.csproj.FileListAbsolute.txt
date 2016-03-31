@@ -1,0 +1,4 @@
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\bin\Release\DamerauLevenshteinCLR.dll
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\bin\Release\DamerauLevenshteinCLR.pdb
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\obj\Release\DamerauLevenshteinCLR.dll
+D:\KWF\Code\DamerauLevenshteinCLR\DamerauLevenshteinCLR\obj\Release\DamerauLevenshteinCLR.pdb

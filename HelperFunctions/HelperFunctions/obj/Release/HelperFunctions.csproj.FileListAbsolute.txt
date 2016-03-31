@@ -1,0 +1,5 @@
+D:\KWF\Code\HelperFunctions\HelperFunctions\bin\Release\HelperFunctions.dll
+D:\KWF\Code\HelperFunctions\HelperFunctions\bin\Release\HelperFunctions.pdb
+D:\KWF\Code\HelperFunctions\HelperFunctions\obj\Release\HelperFunctions.csprojResolveAssemblyReference.cache
+D:\KWF\Code\HelperFunctions\HelperFunctions\obj\Release\HelperFunctions.dll
+D:\KWF\Code\HelperFunctions\HelperFunctions\obj\Release\HelperFunctions.pdb
